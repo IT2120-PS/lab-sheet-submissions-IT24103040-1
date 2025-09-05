@@ -21,3 +21,4 @@ cat("X ~ Poisson (", lamda,")")
 #02(03)
 dpois(15,lambda = lamda)
 
+
